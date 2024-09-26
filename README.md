@@ -4,6 +4,7 @@ A simple yet visually appealing web effect that reveals color images through a c
 
 ## Demo
 
+![colour-reveal-2 0](https://github.com/user-attachments/assets/c985c272-a302-4606-9115-f193fcb8da73)
 
 
 ## Features
